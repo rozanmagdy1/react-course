@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+}
+form{
+    width: 600px;
+    background-color: black;
+    margin: auto;
+    color: white;
+    border-radius: 20px;
+    height: 300px;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+form div{
+    width:300px;
+    margin: auto;
+}

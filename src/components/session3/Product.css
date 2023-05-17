@@ -1,0 +1,15 @@
+.product{
+    width: 75%;
+    margin: 10%;
+}
+.product img{
+    width: 100%;
+    height: 400px;
+}
+.product p{
+    font-size: 13pt;
+}
+.product h3{
+    height: 82px;
+    width: 100%;
+}

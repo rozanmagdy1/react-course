@@ -1,0 +1,8 @@
+.Products{
+    background-color: whitesmoke;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.Products h3{
+    color: brown;
+}
